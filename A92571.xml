@@ -1,0 +1,392 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Laws and acts past in the second session of the second Parliament, of our most high and dread soveraign, Charles the second, by the grace of God, King of Scotland, England, France, and Ireland, defender of the faith Holden at Edinburgh, from the 28. of July, to the 22. of August, 1670. By a noble earl, John Earl of Lauderdail, Viscount Maitland, Lord Thirlestane and Bolton, &amp;c. His Majesties Commissioner, &amp;c.</title>
+            <title>Acts. 1670</title>
+            <author>Scotland.</author>
+         </titleStmt>
+         <extent>Approx. 40 KB of XML-encoded text transcribed from 9 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A92571</idno><idno type="EEBO-CITATION">99895944</idno>
+  <idno type="VID">153550</idno>
+  <idno type="EEBO-PROQUEST">2240909130</idno>
+  
+            <idno type="STC">Wing S1277</idno>
+            <idno type="STC">ESTC R230208</idno>
+            <idno type="PROQUEST">99895944</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-99895944e"/>
+            <note>(EEBO-TCP ; phase 2, no. A92571)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 153550)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 2370:15)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Laws and acts past in the second session of the second Parliament, of our most high and dread soveraign, Charles the second, by the grace of God, King of Scotland, England, France, and Ireland, defender of the faith Holden at Edinburgh, from the 28. of July, to the 22. of August, 1670. By a noble earl, John Earl of Lauderdail, Viscount Maitland, Lord Thirlestane and Bolton, &amp;c. His Majesties Commissioner, &amp;c.</title>
+                  <title>Acts. 1670</title>
+                  <author>Scotland.</author>
+               </titleStmt>
+               <extent>14, [2] p.   </extent>
+               <publicationStmt>
+                  <publisher>re-printed by Andrew Anderson, printer to the King's most excellent Majesty,</publisher>
+                  <pubPlace>Edinburgh :</pubPlace>
+                  <date>anno Dom. 1674.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>At foot of title page: Cum privilegio.</note>
+                  <note>Imperfect: last page cropped at foot with loss of text.</note>
+                  <note>Reproduction of original in the Folger Shakespeare Library, Washington, D.C..</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="corporate_name">Scotland. --  Parliament --  Early works to 1800.</term>
+               <term type="geographic_name">Scotland --  History --  1660-1688 --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2010-06 </date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-11 </date>
+            <label>John Latta </label>Sampled and proofread </change>
+         <change>
+            <date>2014-11 </date>
+            <label>John Latta</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:153550:1"/>
+            <p>LAWS and ACTS Past in the second SESSION of the second PARLIAMENT, Of our most High and Dread SOVERAIGN, CHARLES THE SECOND, <hi>By the Grace of GOD, King of</hi> SCOTLAND, ENGLAND, FRANCE, <hi>and</hi> IRELAND, <hi>Defender of the Faith.</hi>
+            </p>
+            <p>Holden at <hi>EDINBƲRGH,</hi> from the 28. of <hi>July,</hi> to the 22. of <hi>August,</hi> 1670.</p>
+            <p>
+               <hi>By a Noble Earl,</hi> John <hi>Earl of</hi> Lauderdail, <hi>Viscount</hi> Maitland, <hi>Lord</hi> Thirlestane <hi>and</hi> Bolton, <hi>&amp;c. His</hi> MAJESTIES <hi>Commissioner,</hi> &amp;c.</p>
+            <p>
+               <hi>EDINBURGH,</hi> Re-printed by <hi>Andrew Anderson,</hi> Printer to the King's most Excellent MAjESTY, <hi>Anno DOM.</hi> 1674.</p>
+            <q>
+               <floatingText xml:lang="eng">
+                  <body>
+                     <div type="license">
+                        <p>
+                           <hi>CUM PRIVILEGIO.</hi>
+                        </p>
+                     </div>
+                  </body>
+               </floatingText>
+            </q>
+         </div>
+      </front>
+      <body>
+         <div type="collection_of_acts">
+            <pb facs="tcp:153550:2"/>
+            <pb n="3" facs="tcp:153550:2"/>
+            <head>LAWS and ACTS past in the second <hi>SESSION</hi> of the second <hi>PARLIAMENT,</hi> of our most High and Dread Soveraign, <hi>CHARLES</hi> the Second, by the Grace of GOD, King of <hi>Scotland, England, France</hi> and <hi>Ireland, Defender of the Faith.</hi>
+            </head>
+            <head type="sub">Begun at <hi>Edinburgh</hi> upon the <hi>28.</hi> of <hi>July,</hi> and continued to the <hi>22.</hi> of <hi>August, 1670.</hi>
+            </head>
+            <div n="1" type="act">
+               <head>ACT Authorizing certain Commissioners of the Kingdom of <hi>Scotland,</hi> to treat with Commissio<g ref="char:EOLhyphen"/>ners of <hi>England,</hi> for the weell of both Kingdoms.</head>
+               <head type="sub">
+                  <hi>Edinburgh,</hi> the 30. day of <hi>July,</hi> 1670.</head>
+               <p>
+                  <seg rend="decorInit">F</seg>Orasmuch as the King's most Excellent <hi>Majesty,</hi> from His Princely Zeal and Fatherly Care of the Welfare and Hap<g ref="char:EOLhyphen"/>piness of His Subjects (persisting in the same pious and prudent Resolution of His Royall Grand-father, King <hi>James,</hi> of ever blessed memory, to endeavour a nearer and more compleat Union be<g ref="char:EOLhyphen"/>tween His two Kingdoms of <hi>Scotland</hi> and <hi>England</hi>) Hath recommended it to the Parliaments of both Kingdoms, that Commissioners might be no<g ref="char:EOLhyphen"/>minate to Treat and Consult concerning this Union, to the end, that His <hi>Majesties</hi> Royal and Gracious purposes therein may be accomplished,
+<pb n="4" facs="tcp:153550:3"/>and such a further Union may be treated and agreed upon, as may com<g ref="char:EOLhyphen"/>pleat and confirm for ever, a constant mutual love and friendship be<g ref="char:EOLhyphen"/>twixt His Subjects of both Realms.</p>
+               <p>Therefore, His <hi>Majesty,</hi> with advice and consent of His Estates of Parliament, doth hereby Statute, Ordaine and Enact, That such Persons, or <hi>Quorum</hi> thereof, as shal be nominated by His <hi>Majesty</hi> un<g ref="char:EOLhyphen"/>der His Great Seal of <hi>Scotland,</hi> are by vertue and authority of this Act, Authorized, Commissionate and Impowered, to meet and as<g ref="char:EOLhyphen"/>semble at such times and in such places, as His <hi>Majesty</hi> shall appoint; And there to Treat and Consult, according to the tenor of their Commission and Authority in that behalf under the Great Seal, with the Commissioners authorized by Authority of the Parliament of <hi>England,</hi> of, and concerning such an Union of the Realms of <hi>Scotland</hi> and <hi>England,</hi> and of and concerning such other matters, causes and things whatsoever, as upon mature deliberation, the greatest part of the saids Commissioners assembled, as said is, and the Commissioners authorized by the Parliament of <hi>England,</hi> according to the tenor and purport of the Commission in that behalf, shall in their Wisdoms think convenient and necessary for the Honour of His <hi>Majesty,</hi> and the Well and Common-good of both Kingdoms during His <hi>Majesties</hi> Life, (which Almighty GOD make long and prosperous) and of His Heirs and lawfull Successors for ever. Which Commissioners of both Kingdoms shall, according the tenor and purport of the Commissions in that behalf, reduce their Doings and Proceedings therein into Writ<g ref="char:EOLhyphen"/>ings or Instruments tripartite, every part to be subscribed and sealed by them; To the end that one part thereof may in all humbleness be presented to the Kings most Excellent <hi>Majesty,</hi> another part thereof offered to the consideration of the Parliament of <hi>Scotland,</hi> and another part to be offered to the consideration of the Parliament of <hi>England,</hi> at their next Sessions to be held in either Kingdoms <hi>respe<g ref="char:EOLhyphen"/>ctivè,</hi> after such Writings or Instruments shal be subscribed and sealed by the saids Commissioners, that thereupon such further proceedings may be had, as by His <hi>Majesty</hi> and both the saids Parliaments, shal be thought fit and necessary for the Weel and Common-good of both the said Kingdoms; To whom the entire consideration of the whole, and the allowing or dis-allowing thereof, or any part thereof as they shall think fit, is wholly reserved. Likeas, His <hi>Majesty,</hi> with advice and consent foresaid, doth hereby Statute and Declare, that no matter or thing to be proposed, treated of, or agreed by the said Commissio<g ref="char:EOLhyphen"/>ners, by vertue of this Act, shall have any force or effect, or be put in execution, untill it be confirmed and established by Act of the Parlia<g ref="char:EOLhyphen"/>ment of <hi>Scotland.</hi>
+               </p>
+            </div>
+            <div n="2" type="act">
+               <pb n="5" facs="tcp:153550:3"/>
+               <head>
+                  <hi>II.</hi> Act against such who shall refuse to depone against Delinquents.</head>
+               <head type="sub">
+                  <hi>Edinburgh,</hi> 3. of <hi>August,</hi> 1670.</head>
+               <p>
+                  <seg rend="decorInit">F</seg>Orasmuch as it is the duty of all good Subjects, to give their best concurrence and assistance as they shall be thereunto required by publick Authority, for disco<g ref="char:EOLhyphen"/>very and punishment of all crimes against the publick Laws, or which may tend to the breach or disturbance of the publick Peace of the Kingdom; And that it is an high contempt of Authority, and a signal evidence of disloyalty and in<g ref="char:EOLhyphen"/>clination to rebellion, to refuse or shift the same when required there<g ref="char:EOLhyphen"/>unto. Therefore, His <hi>Majesty,</hi> with advice and consent of His Estates in Parliament, doth hereby Statute and Ordain, That all and every Subject of this Kingdom, of what degree, sex or quality soever, who hereafter shall be called by His <hi>Majesties</hi> Privy Council, or any others having Authority from His <hi>Majesty,</hi> to declare and depone up<g ref="char:EOLhyphen"/>on oath, their knowledge of any crimes against the publick Laws and Peace of the Kingdom; and particularly, of any Conventicles or other unlawful Meetings, and of the several circumstances of the persons pre<g ref="char:EOLhyphen"/>sent, and things done therein, or of the ressetting and intercommuning with persons who are, or hereafter shall be declared Fugitives or Re<g ref="char:EOLhyphen"/>bels: Are obliedged in conscience, duty, and by the alledgiance of Subjects, to declare and depone their knowledge thereof, and of all the particulars relating thereunto. And if any shall happen to be so per<g ref="char:EOLhyphen"/>versly wicked and disloyal, to refuse or delay to declare or depone, be<g ref="char:EOLhyphen"/>ing thereunto required as said is; His <hi>Majesty,</hi> with advice and consent foresaid, appoints their punishment to be lining and close imprisonment, or banishment, by sending them to His <hi>Majesties</hi> Plantations in the <hi>In<g ref="char:EOLhyphen"/>dies,</hi> or elsewhere, as His <hi>Majesties</hi> Council shal think fit. Likeas, His <hi>Majesty,</hi> with advice foresaid, doth require His Privy Council to be carefull in tryal of the crimes above written, and in the speedy and due execution of the pains foresaids, upon all such, without exception, as shall refuse or delay to declare or depone thereupon, as said is. It is alwayes hereby provided, that no mans declaration or deposition against any other person, shall infer against himself the pain of loss of Life, or Member, or Banishment.</p>
+            </div>
+            <div n="3" type="act">
+               <pb n="6" facs="tcp:153550:4"/>
+               <head>
+                  <hi>III.</hi> ACT for the raising a supply of three hundred and sixty thousand pounds offered to His <hi>Majesty.</hi>
+               </head>
+               <head type="sub">
+                  <hi>Edinburgh,</hi> 9. of <hi>August,</hi> 1670.</head>
+               <p>
+                  <seg rend="decorInit">T</seg>HE Estates of Parliament taking to their consideration, that His <hi>Majesty,</hi> from His Princely zeal, and Father<g ref="char:EOLhyphen"/>ly care of the good and weel-fare of His Subjects, doth imbrace and improve every opportunity which may tend to the further securing of their peace and happines: They in a due acknowledgment of His <hi>Majesties</hi> unpara<g ref="char:EOLhyphen"/>lell'd grace and goodness, and for defraying the expence which the extraordinary occasions of His Royal Service and Govern<g ref="char:EOLhyphen"/>ment will at this time require: Do with all humble duty and thank<g ref="char:EOLhyphen"/>fulness, for themselves, and in name of this His <hi>Majesties</hi> most ancient Kingdom, whom they represent, make offer to His <hi>Majesty</hi> of a new Supply of three hundreth and sixty thousand pounds <hi>Scots,</hi> to be rai<g ref="char:EOLhyphen"/>sed and payed out of the Landrent, in the same manner, according to the same proportion, and with the same exceptions that the former Supply granted to His <hi>Majesty</hi> by the Convention of Estates in <hi>January,</hi> one thousand six hundred sixty seven years was raised; And whereof one hundred fourty four thousand pounds <hi>Scots,</hi> as being the proportion of two months of the former Supply, is to be payed betwixt and the first day of <hi>February,</hi> one thousand six hundred seventy one; And seventy two thousand pounds betwixt and the first day of <hi>May</hi> there<g ref="char:EOLhyphen"/>after; And another seventy two thousand pounds betwixt and the first day of <hi>August</hi> following; And the last seventy two thousand pounds betwixt and the first day of <hi>November</hi> thereafter; being all in the year one thousand six hundred seventy one. Likeas, His <hi>Majesty,</hi> with ad<g ref="char:EOLhyphen"/>vice and consent of His Estates of Parliament, doth hereby Ordain the Commissioners for the valuations, nominat by the act of Convention for the late Supply in the year one thousand six hundred sixty seven, to take care and be answerable that this Supply be duely raised and payed in to such as shall be warranded by His <hi>Majesty</hi> to receive the same, at the particular terms of payment above mentioned; And that all man<g ref="char:EOLhyphen"/>ner of diligence and execution contained in that Act be made use of for raising of this Supply, as fully as if the same were expresly repeated in this Act.</p>
+            </div>
+            <div n="4" type="act">
+               <pb n="7" facs="tcp:153550:4"/>
+               <head>
+                  <hi>IV.</hi> ACT against Invaders of Ministers.</head>
+               <head type="sub">
+                  <hi>Edinburgh,</hi> 13. of <hi>August,</hi> 1670.</head>
+               <p>
+                  <seg rend="decorInit">F</seg>Orasmuch as the assaulting of Ministers, and the in<g ref="char:EOLhyphen"/>vading of their houses be atrocious crimes, often prohibit and discharged by Law under high and se<g ref="char:EOLhyphen"/>vere pains; And yet, such hath been the wickedness of some loose Men, Rebels and Vagabonds, that of late they have, in several places in the night time, in<g ref="char:EOLhyphen"/>vaded and broken in upon Ministers houses, assaulted and wounded their persons, and pursued them for their lives. And the Kings <hi>Majesty</hi> having a just indignation of such horrid and unchristian villanies, hath thought fit to brand the same with a signal mark of His displeasure: And therefore, His <hi>Majesty,</hi> with advice and consent of His Estates in Parliament, doth hereby Statute, Enact and Declare, That whatsoever person or persons shall be found guilty of the assaulting the lives of Ministers, or robbing their houses, or actually attempting the same, shal be punished with the pain of death and the confiscation of their Goods. And for the better discovery of these crimes, His <hi>Majesty</hi> doth, with advice and consent foresaid hereby offer and ensure the sum of five hundred merks to any person who shal discover and seise any of the saids Assaulters, Robbers or attempters: And in case they shall be discovered by one person, and apprehended by another, the discoverer is to have two hundred Merks, and the apprehender three hundred Merks, to be payed out of His <hi>Majesties</hi> Thesaury by the Commissioners thereof, who are hereby authorized to pay the same. And if there shall happen any sl<gap reason="illegible: faint" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ughter to be committed in the apprehending of such persons, His <hi>Majesty,</hi> with advice foresaid, doth hereby indemnifie the persons im<g ref="char:EOLhyphen"/>ployed and all such as shall assist in the apprehending of them; and De<g ref="char:EOLhyphen"/>clares them free of all question or trouble for the same in time coming.</p>
+            </div>
+            <div n="5" type="act">
+               <head>
+                  <hi>V.</hi> ACT against Conventicles.</head>
+               <head type="sub">
+                  <hi>Edinburgh,</hi> 13. of <hi>August,</hi> 1670.</head>
+               <p>
+                  <seg rend="decorInit">F</seg>Orasmuch as the assembling and convocating of His <hi>Majesties</hi> Subjects without His <hi>Majesties</hi> Warrand and Authority, is a most dangerous and unlawful Practice prohibit and discharged by several Laws and Acts of Parliament, under high and great pains; And that not<g ref="char:EOLhyphen"/>withstanding thereof, divers disaffected and seditious persons, under the specious, but false pretences of Re<g ref="char:EOLhyphen"/>ligion and religious Exercises, presume to make, and be present at Con<g ref="char:EOLhyphen"/>venticles
+<pb n="8" facs="tcp:153550:5"/>and unwarrantable Meetings and Conventions of the Subjects, which are the ordinary Seminaries of Separation and Rebellion, tending to the prejudice of the publick Worship of GOD in the Churches, to the scandal of the reformed Religion, to the reproach of His <hi>Majesties</hi> Authority and Government, and to the alienating of the hearts and af<g ref="char:EOLhyphen"/>fections of the Subjects from that duty and obedience they own to His <hi>Majesty,</hi> and the publick Laws of the Kingdom. For the suppressing and preventing of which for the time to come, his <hi>Majesty,</hi> with advice and consent of His Estates of Parliament, hath thought fit to Statute and Enact, Likeas they do hereby Statute and Command, That no out<g ref="char:EOLhyphen"/>ed Ministers, who are not licenced by the Council, and no other persons not authorized or tolerat by the Bishop of the Diocie, presume to preach, expound Scripture, or pray in any Meeting, except in their own Houses, and to these of their own Family; and that none be present at any Meeting, without the Family to which they belong, where any not li<g ref="char:EOLhyphen"/>cenced, authorized nor tolerate as said is, shall preach, expound Scrip<g ref="char:EOLhyphen"/>ture or pray: Declaring hereby, all such who shall do in the contrair, to be guilty of keeping of Conventicles; and that he or they who shall so preach, expound or pay, within any house, shall be seised upon and imprisoned, till they find caution, under the pain of five thousand Merks, not to do the like thereafter, or else enact themselves to remove out of the Kingdom, and never return without His <hi>Maje<g ref="char:EOLhyphen"/>sties</hi> Licence; And that every person who shall be found to have been present at any such Meetings, shall be, <hi>toties quoties,</hi> fined according to their qualities, in the respective sums following, and imprisoned untill they pay their fines, and farther during the Councils pleasure, <hi>viz.</hi> Each Man or VVoman, having Land in Heretage, Life-rent or proper wod<g ref="char:EOLhyphen"/>set, to be fined in a fourth part of his or her valued yearly Rent; each Tennent labouring Land, in twenty five pounds <hi>Scots;</hi> each Cottar in twelve pounds <hi>Scots,</hi> and each serving Man in a fourth part of his yearly Fee. And where Merchants or Trades-men do not belong to, or reside within Burghs Royal, That each Merchant or chief Trades-men be fin<g ref="char:EOLhyphen"/>ed as a Tennant, and each inferior Trades-man as a Cottar: And if any of the persons above mentioned shall have their VVives, or any of their Children living in family with them, present at any such Meeting, they are therefore to be fined in the half of the respective fines aforesaid, consideration being had to their several qualities and conditions. And if the Master or Mistress of any Family, where any such Meetings shall be keeped, be present within the house for the time, they are to be fined in the double of what is to be payed by them for being present at a House-conventicle. And it is hereby Declared, that Magistrats of Burghs Royal are lyable, for every Conventicle to be keeped within their Burghs, to such fines as His <hi>Majesties</hi> Council shall think fit to impose; and that the Master or Mistress of the houses where the Con<g ref="char:EOLhyphen"/>venticle shall happen to be keeped, and the persons present thereat, are to relive the Magistrates as the Council shall think fit to order the same; it being notwithstanding free to the Council to fine the In<g ref="char:EOLhyphen"/>habitants of Burghs, for being present at Conventicles within or with<g ref="char:EOLhyphen"/>out Burghs, or where their Wives or Children shall be present at the same.</p>
+               <pb n="9" facs="tcp:153550:5"/>
+               <p> And Father, His <hi>Majesty</hi> understanding that divers disaffected persons have been so maliciously wicked and disloyal, as to convocat His <hi>Majesties</hi> Subjects to open Meetings in the Fields, expresly con<g ref="char:EOLhyphen"/>trair to many publick Laws made thereanent; And considering that these Meetings are the rendezvous of Rebellion, and tend in a high mea<g ref="char:EOLhyphen"/>sure to the disturbance of the publick Peace: Doth therefore, with ad<g ref="char:EOLhyphen"/>vice and consent foresaid, Statute and Declare, That whosoever, with<g ref="char:EOLhyphen"/>out Licence or Authority foresaid, shall preach, expound Scripture or pray at any of these Meetings in the field, or in any house where there be moe persons then the house contains, so as some of them be without doors (which is hereby declared to be a Field-conventicle) or who shall convocat any number of people to these Meetings, shall be punished with death, and confiscation of their goods. And it is hereby offered and assured, that if any of His <hi>Majesties</hi> good Subjects shall seise and se<g ref="char:EOLhyphen"/>cure the persons of any who shall either preach or pray at these field<g ref="char:EOLhyphen"/>meetings, or convocat any persons thereto, they shall for every such person so seised and secured, have five hundred Merks payed unto them for their reward, out of His <hi>Majesties</hi> Thesaury by the Commissioners thereof, who are hereby authorized to pay the same; and the saids sei<g ref="char:EOLhyphen"/>sers and their assistants are hereby indemnified for any slaughter that shall be committed in the apprehending and securing of them. And as to all Heretors and others aforesaid, who shall be present at any of these Field-conventicles, it is hereby Declared, they are to be fined, <hi>toties quoties,</hi> in the double of the respective fines appointed for House-con<g ref="char:EOLhyphen"/>venticles; but prejudice of any other punishment due to them by Law as seditious persons, and disturbers of the Peace and Quiet of the Kirk and Kingdom. And seing the due execution of Laws is the readiest means to procure obedience to the same; Therefore, His <hi>Majesty,</hi> with consent and advice foresaid, doth impower, Warrand and Command all Sheriffs Stewarts of Stewartries, Lords of Regalities and their De<g ref="char:EOLhyphen"/>puts, to call before them and try all such persons who shall be infor<g ref="char:EOLhyphen"/>med to have keeped or been present at Conventicles within their Jurisdictions, and to inflict upon these who shall be found guilty, the Respective fines exprest in this Act, they being alwayes countable to the Commissioners of His <hi>Majesties</hi> Thesaury, for the fines of all Here<g ref="char:EOLhyphen"/>tors within their bounds. And His <hi>Majesty,</hi> for the encouragement of the saids Sheriffs, Stewarts and Lords of regalities, to be carefull and diligent in their duties herein, doth allow to themselves all the fines of any persons within their Jurisdictions, under the degree of Heretors; and requires the Lords of His <hi>Majesties</hi> Privy Council to take exact tryal of their care and diligence herein: And if the Sheriffs, Stewarts and Bailiffs shall be negligent in their duties, or if the Magistrates with<g ref="char:EOLhyphen"/>in Burghs shall be negligent in their outmost diligence, to detect and dilate to the Council all conventicles within their Burghs, that the Coun<g ref="char:EOLhyphen"/>cil inflict such censures &amp; punishments upon them as they shall think fit. And the Lords of His <hi>Majesties</hi> Privy Council are hereby required to be careful in the tryal of all field and House-conventicles, kept since the first day of <hi>October,</hi> one thousand six hundred sixty nine, and before the date hereof, and that they punish the same conform to the Laws and
+<pb n="10" facs="tcp:153550:6"/>Acts of State formerly made thereanent. And lasty, His <hi>Majesty</hi> being hopful that His Subjects will give such chearful obedience to the Laws, as there shall not be long use of this Act: Hath therefore, with advice foresaid, Declared, That the endurance thereof shall only be for three years, unless His <hi>Majesty</hi> shall think fit that it continue longer.</p>
+            </div>
+            <div n="6" type="act">
+               <head>
+                  <hi>VI.</hi> ACT against disorderly Baptisms.</head>
+               <head type="sub">
+                  <hi>Edinburgh,</hi> 17. of <hi>August,</hi> 1670.</head>
+               <p>
+                  <seg rend="decorInit">F</seg>Orasmuch as the disorderly carriage of some Persons, in withdrawing from the Ordinances of the Sacra<g ref="char:EOLhyphen"/>ments in their own Parish Churches, and procuring their Children to be baptized by persons not publick<g ref="char:EOLhyphen"/>ly authorized or allowed, is highly scandalous to the Protestant Religion, and tends exceedingly to the increase of Schism and Profanity: Therefore the King's <hi>Majesty,</hi> with advice and consent of His Estates in Parliament, doth Statute and Prohibit all His <hi>Majesties</hi> Subjects, that none of them, of whatsoever degree or quality, presume to offer their Children to be Baptized by any but such as are their own Parish Ministers; or else by such Ministers as are authorized by the present established Govern<g ref="char:EOLhyphen"/>ment of the Church, or Licenced by His <hi>Majesties</hi> Council, upon a Certificat from the Minister of the Parish, if he be present; or in his absence, by one of the Neighbouring Ministers: And declares, that the Father of any Child which shal be otherways Baptized, shall be lyable to the pains and penalties following; <hi>viz.</hi> Every Heretor, Life-ren<g ref="char:EOLhyphen"/>ter, or proper Wod-setter, shall be fined in a fourth part of his va<g ref="char:EOLhyphen"/>lued yearly Rent; Every person above the degree of a Tenent, ha<g ref="char:EOLhyphen"/>ving a personal, but no real Estate, in one hundred pounds <hi>Scots:</hi> Every considerable Merchant in one hundred pounds: Every inferior Merchant, or considerable Trades-man, and every Tenant labouring Land, in fifty pounds: Every meaner Burgess, Trades-man, Inhabi<g ref="char:EOLhyphen"/>tant within Burgh, and every Cottar, in twenty pounds <hi>Scots;</hi> and eve<g ref="char:EOLhyphen"/>ry Servant in half a years Fee. And His <hi>Majesty,</hi> with advice foresaid, requires the Sheriffs, Stewarts, Lords of Regalities and their Deputes, and Magistrats of Burghs Royal, within their several Bounds and Ju<g ref="char:EOLhyphen"/>risdictions, to be careful to put this Act in execution; and that upon Information from the Bishop of the Diocess, or any other, they call before them, and judge the Persons Contraveeners thereof, and up<g ref="char:EOLhyphen"/>lift the Penalties foresaids. Likeas, His <hi>Majesty,</hi> for the further encouragement of the saids Sheriffs, and others foresaids, to do their duty herein, doth allow them to retain for their own use, the Fines of the several Persons above mentioned, except these of the Heretors, for which they are to be comptable to the Commissioners of His <hi>Majesties</hi> Thesaury.</p>
+            </div>
+            <div n="7" type="act">
+               <pb n="11" facs="tcp:153550:6"/>
+               <head>
+                  <hi>VII.</hi> ACT against Separation and withdrawing from the publick Meetings of Divine Worship.</head>
+               <head type="sub">Edinburgh, <hi>20. of</hi> August, <hi>1670.</hi>
+               </head>
+               <p>
+                  <seg rend="decorInit">F</seg>Orasmuch as it is the duty of all His <hi>Majesties</hi> good Subjects, to acknowledge and comply with His <hi>Ma<g ref="char:EOLhyphen"/>jesties</hi> Government, as it is by the Laws of the King<g ref="char:EOLhyphen"/>dom established in Church and State; and in order thereunto, to give their cheerful concurrence and countenance to such Ministers, as by publick Authority are, or shall be admitted in their several Parishes, and to attend all the Publick and Ordinary Meetings of Divine Worship in the same. And seing the Laws of the Kingdom hath declared a withdrawing, and not keeping of, and joyning in, these meetings, to be seditious, and of dangerous example and consequence: His <hi>Ma<g ref="char:EOLhyphen"/>jesty</hi> conceives Himself also bound in Conscience and Duty to inter<g ref="char:EOLhyphen"/>pose His Authority, that the Publick Exercises of Gods Worship be countenanced by all His good Subjects, and that such as upon any pretext do disorderly withdraw, be by the Censures of the Law made sensible of their miscarriages, and by the Authority of the Law, drawn to a dutiful obedience to it. And therefore, His <hi>Majesty,</hi> with Ad<g ref="char:EOLhyphen"/>vice and Consent of His Estates in Parliament, Statutes, Ordains, and Commands all His good Subjects of the Reformed Religion within this Kingdom, to attend and frequent the Ordinary Meetings appointed for Divine Worship, in their own Parish Churches. De<g ref="char:EOLhyphen"/>claring hereby, that every such Person who shall three Lords Dayes together withdraw and absent themselves from their own Parish Churches, without a reasonable excuse to be allowed or disallowed by the Judges and Magistrats after-mentioned, shall <hi>toties quoties</hi> be li<g ref="char:EOLhyphen"/>able to the pains and penalties following, <hi>viz.</hi> Every person having Land in heretage, Life rent, or proper Wod-set, in the eighth part of his or her valued yearly Rent: Every Tennent in six pounds <hi>Scots:</hi> Every Cottar or Servant, in fourty shilling <hi>Scots:</hi> Every person above the degree of a Tennent, and who hath a personal, but no real Estate, in twelve pounds <hi>Scots:</hi> Every considerable Merchant in twelve pounds <hi>Scots:</hi> Every inferior Merchant, and considerable Trades-man, in six pounds <hi>Scots:</hi> Every other meaner Burgess, Trades-man, and Inhabi<g ref="char:EOLhyphen"/>tant within Burgh, in fourty shillings <hi>Scots.</hi> And His <hi>Majesty,</hi> with advice and consent foresaid, doth commit the execution of this Act, and the raising the penalties above-mentioned, to the Sheriffs, Stew<g ref="char:EOLhyphen"/>arts, Lords of Regalities above-mentioned, to the Sheriffs, Stew<g ref="char:EOLhyphen"/>arts, Lords of Regalities and their Deputes, and to Magistrats of Burghs within their several respective Jurisdictions: And doth here<g ref="char:EOLhyphen"/>by Authorize and require them to be careful to see this Act put in due execution; and in order thereunto, that they examine upon Oath such persons in every Parish as they shal think fittest, for discovery of such as shal withdraw, and thereby incur the penalties above mentio<g ref="char:EOLhyphen"/>ned.
+<pb n="12" facs="tcp:153550:7"/>And for their encouragement herein, His <hi>Majesty,</hi> with advice foresaid, doth hereby allow to themselves the Fines of all persons within their respective Jurisdictions, below the degree of Heretors, they being alwayes comptable for the Fines of the Heretors to the Commissioners of His <hi>Majesties</hi> Thesaury. And incase any Heretor, Life-renter, or proper Wod-setter, shall be so forward and obstinant, as to withdraw from their Parish Churches for the space of one year, notwithstanding of their being fined as aforesaid: It is ordained, That the Sheriffs and other Judges aforesaid, within their several Jurisdicti<g ref="char:EOLhyphen"/>ons, dilate them to His <hi>Majesties</hi> Privy Council, who are hereby au<g ref="char:EOLhyphen"/>thorized to call the saids persons before them, and to require them to subscribe the Bond following: <hi>I <gap reason="blank" extent="1 word">
+                        <desc> _____ </desc>
+                     </gap> oblidge my self, that I shal not upon any pretext or collour whatsoever, rise in Arms a<g ref="char:EOLhyphen"/>gainst the King's</hi> Majesty, <hi>or any having His Authority or Commission; nor shal assist nor countenance any who shall rise in Arms.</hi> And if any person so called and required, shall refuse or delay to subscribe the Bond, That the Lords of His <hi>Majesties</hi> Privy Council secure or ba<g ref="char:EOLhyphen"/>nish them, as they shall think fit. And it is hereby declared, that up<g ref="char:EOLhyphen"/>on such refusal or delay to sign this Bond, the single Escheat, and Life<g ref="char:EOLhyphen"/>rent Escheat of the refusers or delayers shall fall and appertain to His <hi>Majesty,</hi> and is to be intrometted with, and disposed of, for His <hi>Majesties</hi> use. Likeas, the Lords of His <hi>Majesties</hi> Privy Council are hereby required to call from time to time for an Accompt from the Sheriffs, and others foresaids, of their diligence in putting this Act in execution; and if they be found negligent, that they inflict such Cen<g ref="char:EOLhyphen"/>sures and Punishments on them, as they shall judge fit. And it is further declared, that this Act is to endure only for the space of three years, unless His <hi>Majesty</hi> shall think fit it continue longer. And it is further hereby provided, that this Act is to be without prejudice of the Censures of the Church, to be used against such who shall be ab<g ref="char:EOLhyphen"/>sent from the Publick Meetings for Gods Worship, conform to the former Acts and Practices of the Church thereanent.</p>
+            </div>
+            <div n="8" type="act">
+               <head>
+                  <hi>VIII.</hi> ACT ratifying the Priviledges of the Ordinary Lords of Session.</head>
+               <head type="sub">Edinburgh, <hi>22. of</hi> August, <hi>1670.</hi>
+               </head>
+               <p>
+                  <seg rend="decorInit">F</seg>Orasmuch as at the first Institution of the Col<g ref="char:EOLhyphen"/>ledge of Justice, the Kings <hi>Majesty</hi> and Estates of Parliament, considering that the Lords of Session did represent His <hi>Majesties</hi> Person and Authority, in doing Justice to the Subjects; And in regard thereof and their daily attendance, did by an ex<g ref="char:EOLhyphen"/>press Act of Parliament, exeem them, and every one of them, from payment of all Taxes, Con<g ref="char:EOLhyphen"/>tributions, and other extraordinary charges in all time thereafter;
+<pb n="13" facs="tcp:153550:7"/>which Priviledge and Immunity hath been fully ratified and approven in all succeeding Parliaments. Therefore, and in consideration that the pains and travels of the saids Lords have been since rather in<g ref="char:EOLhyphen"/>creased then diminished, His <hi>Majesty</hi> being willing, for their grea<g ref="char:EOLhyphen"/>ter encouragement in the discharge of their Trust and Employment, their Priviledges be preserved entire, with advice and consent of the Estates of Parliament, Doth Ratifiie and Approve their whole Pri<g ref="char:EOLhyphen"/>viledges and Immunities foresaids, granted by their first Institution or any other subsequent Act of Parliament. And for their farther security, His <hi>Majesty,</hi> with consent foresaid, Statutes and Ordains, That the saids Ordinary Lords of Session shal bruik and enjoy their saids Priviledges and Immunities, from all burdens imposed, or to be imposed by this or any other Parliament in time coming, als ful<g ref="char:EOLhyphen"/>ly as if they were particularly excepted out of the said Acts.</p>
+            </div>
+            <div n="9" type="act">
+               <head>IX. ACT concerning High-wayes.</head>
+               <head type="sub">
+                  <hi>Edinburgh,</hi> 22. of <hi>August,</hi> 1670.</head>
+               <p>
+                  <seg rend="decorInit">O</seg>Ur Soveraign Lord considering, that in the sixteenth Act of the last Session of Parliament, anent High-wayes, the time appointed for working thereat is limi<g ref="char:EOLhyphen"/>ted betwixt Seed-time and Harvest, whereas it will be much more convenient working at, and repairing seve<g ref="char:EOLhyphen"/>ral of the High-wayes at other Seasons of the Year; Therefore His <hi>Majesty,</hi> with Advice and Consent of the Estates of Parliament, doth declare, that the respective Sheriffs and Justices to whom the Execution of the said Act is committed, may require all persons liable to work and repair the said High-wayes, Brid<g ref="char:EOLhyphen"/>ges, and Ferries, to conveen, the number of dayes they are liable, at any time or season they shall jduge most convenient, Seed-time and Harvest being alwayes excepted. And sick like, where the wayes ly at great di<g ref="char:EOLhyphen"/>stance from those who are liable to repair the same, that it shall be leisome to the saids Justices and over-seers to dispence with those per<g ref="char:EOLhyphen"/>sons who live at such a distance, they paying six shillings yearly for ilk Man, and twelve shillings for ilk Horse which ought to have been im<g ref="char:EOLhyphen"/>ployed in the said Work; which sums of Money so to be payed in, shall be expended at sight of the said Sheriff and Justices on Work-men to work in place of those who live at such distances, in manner foresaid.</p>
+            </div>
+            <div n="10" type="act">
+               <pb n="14" facs="tcp:153550:8"/>
+               <head>X. <hi>ACT</hi> Salvo jure cujuslibet.</head>
+               <head type="sub">
+                  <hi>Edinburgh,</hi> 22. of <hi>August,</hi> 1670.</head>
+               <p>
+                  <seg rend="decorInit">O</seg>UR Soveraign Lord taking to consideration, that there by many Acts of Ratifications and others, past and made in this Session of Parliament, in favours of par<g ref="char:EOLhyphen"/>ticular persons, without calling or hearing of such as may be thereby concerned and prejudged: Therefore, His <hi>Majesty,</hi> with advice and consent of the Estates of Parliament, Statutes and ordains, That all such particular Acts and Acts of Ratification past in manner foresaid, shall not prejudge any third party of their lawful Rights, nor of their Actions and Defences competent thereupon, before the making of the said particular Acts and Acts of Ratifications; And that the Lords of Session and all other Judges within this Kingdom, shal be oblieged to judge betwixt Parties, according to their several Rights standing in their persons before the making of the saids Acts: All which are hereby exponed, and declared to have been made, <hi>Salvo jure cujuslibet.</hi>
+               </p>
+            </div>
+            <div n="11" type="act">
+               <head>
+                  <hi>XI.</hi> ACT of Adjournment.</head>
+               <head type="sub">
+                  <hi>Edinburgh,</hi> 22. of <hi>August,</hi> 1670.</head>
+               <p>
+                  <seg rend="decorInit">T</seg>He King's <hi>Majesty</hi> Declares this Parliament current, and adjourns the same to the eleventh of <hi>May</hi> next to come; Ordaining all the Members of Parliament to attend that day, and that there be no new Election of Commissioners from Shires or Burroughs, except upon the death of some of the present Commissioners.</p>
+               <p>
+                  <hi>A Primerose,</hi> Cls. Reg.</p>
+            </div>
+         </div>
+      </body>
+      <back>
+         <div type="table_of_contents">
+            <pb facs="tcp:153550:8"/>
+            <head>A Table of the Printed Acts.</head>
+            <list>
+               <item>
+                  <hi>1</hi>
+                  <seg rend="decorInit">A</seg>CT authorizing certain Commissioners of the Kingdom of <hi>Scotland,</hi> to Treat with the Commissioners of <hi>England,</hi> for the weel of both King<g ref="char:EOLhyphen"/>doms. <hi>3</hi>
+               </item>
+               <item>
+                  <hi>2</hi> Act against such who shall refuse to depone against Delinquents. <hi>5.</hi>
+               </item>
+               <item>
+                  <hi>3</hi> Act for the raising a Supply of three hundred and sixty thousand pounds offered to His <hi>Majesty. 6.</hi>
+               </item>
+               <item>
+                  <hi>4</hi> Act against Invaders of Ministers. <hi>7.</hi>
+               </item>
+               <item>
+                  <hi>5</hi> Act against Conventicles. <hi>ibid.</hi>
+               </item>
+               <item>
+                  <hi>6</hi> Act against disorderly Baptisms. <hi>10.</hi>
+               </item>
+               <item>
+                  <hi>7</hi> Act against Separation and with drawing from the Publick Meetings of Divine Worship. <hi>11.</hi>
+               </item>
+               <item>
+                  <hi>8</hi> Act ratifying the Priviledges of the Ordinary Lords of Session. <hi>12.</hi>
+               </item>
+               <item>
+                  <hi>9</hi> Act concerning High-wayes. <hi>ibid.</hi>
+               </item>
+               <item>
+                  <hi>10</hi> Act <hi>Salvo jure cujuslibet. 13.</hi>
+               </item>
+               <item>
+                  <hi>11</hi> Act of Adjournment. <hi>ibid.</hi>
+               </item>
+            </list>
+         </div>
+         <div type="list_of_unprinted_acts">
+            <pb facs="tcp:153550:9"/>
+            <head>A List of the Acts and Ratifications past in this second Session of His <hi>Majesties</hi> second Parliament, and which are not here Printed.</head>
+            <list>
+               <item>
+                  <seg rend="decorInit">A</seg>CT concerning Legal Executions to be used at the Towns of <hi>Lauder</hi> and <hi>Dunce.</hi>
+               </item>
+               <item>Act in favours of the Duke and Dutchess of <hi>Hammiltoun.</hi>
+               </item>
+               <item>Act in favours of the Earl of <hi>Errol</hi> and his Cautioners, <hi>&amp;c.</hi>
+               </item>
+               <item>Act in favours of the Countess of <hi>Bramford</hi> and Lady <hi>Forrester.</hi>
+               </item>
+               <item>Act in favours of the Earls of <hi>Roxburgh</hi> and <hi>Weymes.</hi>
+               </item>
+               <item>Act in favours of the Town of <hi>Anstruther.</hi>
+               </item>
+               <item>Act uniting the Kirks of <hi>Inchsture</hi> and <hi>Rossie.</hi>
+               </item>
+               <item>Act for an Imposition for upholding the Bridge of <hi>Dalkeith.</hi>
+               </item>
+               <item>Act in favours of the Laird of <hi>Ardress.</hi>
+               </item>
+               <item>Acts for some new Fairs and Mercats.</item>
+               <item>Act for repairing the Kirks of <hi>Dreghorn</hi> and <hi>Kilmars.</hi>
+               </item>
+               <item>Act Ratifying the Tax Roll of the Burroughs.</item>
+               <item>Act in favours of <hi>Thomas Rocheid</hi> and <hi>Thomas Rutherfurd.</hi>
+               </item>
+               <item>Act for rectifying some Valuations.</item>
+               <item>Act in favours of the Earl of <hi>Caithness.</hi>
+               </item>
+               <item>Protestation in favours of the Advocats and Writers, <hi>&amp;c.</hi>
+               </item>
+               <item>Ratification of a Decreet Arbitral concerning the Stipend of the second Minister of South-<hi>Leith.</hi>
+               </item>
+               <item>Protestation be the Lord <hi>Balmerinoch</hi> and Paroch of South-<hi>Leith</hi> against the same</item>
+               <item>Ratification in favours of <hi>Robert Baird</hi> of <hi>Sauchtoun-hall.</hi>
+               </item>
+               <item>Protestation the Wrights and Cowpers of the <hi>Cannongate.</hi>
+               </item>
+               <item>Ratification of the Right of the Colledge of Old-<hi>Aberden.</hi>
+               </item>
+               <item>Protestation the Lord <hi>Gossfoord</hi> and others against the Ratification to Sir <hi>Andrew Fletcher.</hi>
+               </item>
+               <item>Ratification to the City of <hi>Edinburgh</hi> of the late Imposition upon the Wine and Ale, <hi>&amp;c.</hi>
+               </item>
+               <item>Ratification in favours of <hi>John Wedderburn,</hi> Fiar of <hi>Blackness.</hi>
+               </item>
+               <item>Ratification in favours of Sir <hi>James Mercer.</hi>
+               </item>
+               <item>Ratification in favours of <hi>Patrick Lesly</hi> of <hi>Balquhine.</hi>
+               </item>
+               <item>Ratification in favours of the Earl of <hi>Wintoun.</hi>
+               </item>
+               <item>Ratification in favours of General <hi>Dalyell.</hi>
+               </item>
+               <item>Ratification in favours of the Lord <hi>Gossfoord.</hi>
+               </item>
+               <item>Ratification in favours of <hi>Alexander Monro.</hi>
+               </item>
+               <item>Ratification in favours of the Lord <hi>Saltoun.</hi>
+               </item>
+               <item>Ratification in favours of the Town of <hi>Kirkwall.</hi>
+               </item>
+               <item>Ratification in favours of the Earl of <hi>Eglintoun.</hi>
+               </item>
+               <item>Ratification in favours of <hi>John Cunninghame</hi> of <hi>Caldwell.</hi>
+               </item>
+               <item>Ratification in favours of <hi>James Cockburn</hi> of that ilk.</item>
+               <item>Ratification in favours of Sir <hi>George Ogilvie</hi> of <hi>Barras.</hi>
+               </item>
+               <item>Ratification in favours of Sir <hi>Robert Nairn</hi> of <hi>Strathurd.</hi>
+               </item>
+               <item>Ratification in favours of Sir <hi>George Monro</hi> of <hi>Colrane.</hi>
+               </item>
+               <item>Ratification in favours of the Chirurgions and Apothecaries of <hi>Edinburgh.</hi>
+               </item>
+               <item>Ratification in favours of Sir <hi>Robert Sinclair</hi> of <hi>Longformacus.</hi>
+               </item>
+               <item>Ratification in favours of the Lord <hi>Haltoun</hi> and his Son.</item>
+               <item>Ratification in favours of the Lord <hi>Haltoun.</hi>
+               </item>
+               <item>Ratification in favours of the Members of the Mint-house.</item>
+               <item>Ratification in favours of <hi>James Borthwick</hi> of <hi>Stow.</hi>
+               </item>
+               <item>Ratification in favours of Sir <hi>Colin Campbel</hi> of <hi>Aberurquhill.</hi>
+               </item>
+               <item>Ratification in favours of <hi>Henry Mcdougal</hi> of <hi>Mccairstoun.</hi>
+               </item>
+               <item>Ratification in favours of <hi>Robert Douglas</hi> of <hi>Bridgford.</hi>
+               </item>
+               <item>Ratification in favours of <hi>William Blair</hi> of <hi>Kinfauns.</hi>
+               </item>
+               <item>Ratification in favours of <hi>Colin Cam<gap reason="illegible: faint" extent="1+ letters">
+                        <desc>•…</desc>
+                     </gap> of <gap reason="illegible: page cropped" extent="1 word">
+                        <desc>〈◊〉</desc>
+                     </gap>.</hi>
+               </item>
+            </list>
+         </div>
+      </back>
+   </text>
+</TEI>
